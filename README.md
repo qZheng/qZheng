@@ -1,6 +1,6 @@
 ## 👋 I'm Lucas
 
-Currently, I'm an undergraduate student at McMaster University for computer science.
+I'm an undergraduate student at McMaster University for computer science.
 
 My latest focus is exploring sequential data modeling with PyTorch through training small-scale LSTM networks for sentiment analysis. 
 
