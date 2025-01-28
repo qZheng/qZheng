@@ -1,5 +1,11 @@
-## Hi there 👋
+## 👋 I'm Lucas
 
+Currently, I'm an undergraduate student at McMaster University for computer science.
+
+My latest focus is exploring sequential data modeling with PyTorch through training small-scale LSTM networks for sentiment analysis. 
+
+Email me:
+hello at lucaszheng dot net
 <!--
 **qZheng/qZheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
