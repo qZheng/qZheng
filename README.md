@@ -2,7 +2,7 @@
 
 I'm an undergraduate student at McMaster University for computer science.
 
-My latest focus is exploring sequential data modeling with PyTorch through training small-scale LSTM networks. 
+My latest focus is exploring simple linear neural networks for regression and classification tasks using PyTorch.
 
 Email me:
 hello at lucaszheng dot net
